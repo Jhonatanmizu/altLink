@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Github",
+    "icon": "fa-brands fa-github-alt",
+    "href": "https://github.com/jhonatanmizu"
+  },
+  {
+    "title": "Linkedin",
+    "icon": "fa-brands fa-linkedin",
+    "href": "https://www.linkedin.com/in/ojhonatanjesus/"
+  },
+  {
+    "title": "Portfolio",
+    "icon": "fa-solid fa-address-card",
+    "href": "https://jhonatanjesus.vercel.app"
+  },
+  {
+    "title": "Instagram",
+    "icon": "fa-brands fa-instagram",
+    "href": "https://www.instagram.com/ojhonatanjesus/"
+  }
+]
