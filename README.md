@@ -36,12 +36,12 @@ alt="project screenshot"
 width="400px" style="border-radius:10px" />
 </div>
 
-### Autor
+### Author
 <div style="text-align:center; display:flex;flex-direction:column; align-items:center; gap:1rem; color:#14C8FE;">
 <img src="https://avatars.githubusercontent.com/u/61719180?s=400&u=06b559d4e211817e13bb349ce04b562e5a12473e&v=4"
 height="400px"
 width="400px" style="border-radius:10px"
 />
-<span> Jhonatan Jesus </span>
-<span> Made with :heart: by Jhonatan Jesus</span>
 </div>
+<div> Jhonatan Jesus </div>
+<div> Made with :heart: by Jhonatan Jesus</div>
