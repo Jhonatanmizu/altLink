@@ -31,7 +31,8 @@ is an extension for vscode, which helps in development.
 
 ### Screenshots
 <div style="text-align:center;">
-<img src="./.git/images/project.png" height="200px"
+<img src="src/assets/project.png" height="200px"
+alt="project screenshot"
 width="400px" style="border-radius:10px" />
 </div>
 
